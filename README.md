@@ -1,4 +1,4 @@
-# Fuel Effieciently (python):
+# Fuel Effieciently (Python):
 
 **Description:** A GUI created to optimize the fueling process of vehcichles based on current location
 
