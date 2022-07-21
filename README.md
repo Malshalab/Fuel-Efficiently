@@ -1,4 +1,4 @@
-Fuel Efficiently App (Python):
+<font size=10>Fuel Efficiently App (Python):</font>
 
 **Description:** A GUI created to optimize the fueling process of vehcichles based on current location
 
